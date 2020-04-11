@@ -1,1 +1,7 @@
+markdown: kramdown
 theme: jekyll-theme-hacker
+
+# Site settings
+title: root@atm-infosec.github.io
+author: atm
+description: Infosec newbie on his journey.

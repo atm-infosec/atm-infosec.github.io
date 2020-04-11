@@ -1,0 +1,11 @@
+# Jekyll
+_site/
+
+# Ruby
+Gemfile.lock
+
+# Files
+*.swp
+
+# Folders
+vendor/
