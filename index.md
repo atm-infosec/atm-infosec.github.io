@@ -13,7 +13,8 @@ First and foremost, I publish my writeups here for my own documentation purposes
 <br>
 <h2>About me</h2>
 * * * 
-Data Engineer - IT-Security Enthusiast
+Data Engineer - IT-Security Enthusiast<br>
+[atm-infosec@protonmail.com](mailto:atm-infosec@protonmail.com)
 <script src='https://www.hackthebox.eu/badge/113167'></script>
 * * * 
 <br>
