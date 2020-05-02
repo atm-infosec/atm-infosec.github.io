@@ -5,3 +5,6 @@ theme: jekyll-theme-hacker
 title: root@atm-infosec.github.io
 author: atm
 description: Infosec newbie on his journey.
+plugins: 
+    - jekyll-paginate
+    - jekyll-seo-tag
