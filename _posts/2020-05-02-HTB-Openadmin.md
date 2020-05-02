@@ -295,7 +295,7 @@ AssignUserID joanna joanna
 ```
 
 The configuration is for a local bind on port 52846. 
-The _index.php_ file shows a hash that could be cracked, but it's easier to disable password authentication if we already have write acces to the files.
+The _index.php_ file shows a hash that could be cracked, but it's easier to disable password authentication if we already have write access to the files.
 
 So I decided to disable the password auth.
 ![Login manipulation](../../../../assets/images/hackthebox/openadmin/5_openadmin_php.png)
