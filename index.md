@@ -1,24 +1,16 @@
----
-#layout: post
-#title:  "Home"
-#categories: hackthebox
-#tags: [easy, privesc, reverse shell]
----
-
-<h2>About the blog</h2>
+## About the blog
 * * *
-This blog is about it-security, especially CTFs on <a href="https://hackthebox.eu">Hack the box</a>.<br> 
+This blog is about it-security, especially CTFs on [Hack the Box](https://hackthebox.eu){:target="_blank"}.<br>
 First and foremost, I publish my writeups here for my own documentation purposes.
 * * *
-<br>
-<h2>About me</h2>
+
+## About me
 * * * 
 Data Engineer - IT-Security Enthusiast<br>
 [atm-infosec@protonmail.com](mailto:atm-infosec@protonmail.com)
 <script src='https://www.hackthebox.eu/badge/113167'></script>
 * * * 
-<br>
-<h2>Posts</h2>
+## Posts
 * * *
 <div class="container">
 {% for category in site.categories %}
