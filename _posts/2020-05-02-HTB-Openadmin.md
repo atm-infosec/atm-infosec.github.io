@@ -12,7 +12,7 @@ OpenAdmin is an easy box made by <script src="https://www.hackthebox.eu/badge/82
 
 The box contains an [OpenNetAdmin](https://opennetadmin.com/){:target="_blank"} web application and a website that is bind to localhost.
 
-## recon
+## enumeration
 
 ### nmap
 ```bash

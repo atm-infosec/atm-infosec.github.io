@@ -13,7 +13,7 @@ Security by obscurity. This is the motto of this medium rated box by <script src
 
 In this box we find a self-written _SuperSecure_-webserver, a self-written _SuperSecure_-crypt algorithm and a _Better_-SSH implementation.
 
-## recon
+## enumeration
 
 ### nmap
 
