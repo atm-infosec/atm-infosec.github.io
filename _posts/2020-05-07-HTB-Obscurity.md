@@ -349,6 +349,25 @@ It's not pretty, but it works.
 
 After I received the password, I tried to decrypt the passwordreminder.txt successfully and received the password (SecThruObsFTW) from robert.
 
+#### The real way (Update May 11, 2020)
+I was struggling with the syntax of the script and was not able to find a solution to recover the key. Now I know, I just forgot the quotation marks. -.-
+
+```bash
+python SuperSecureCrypt.py -i out.txt -o out2.txt -k "$(cat check.txt)" -d
+################################
+#           BEGINNING          #
+#    SUPER SECURE ENCRYPTOR    #
+################################
+  ############################
+  #        FILE MODE         #
+  ############################
+Opening file out.txt...
+Decrypting...
+Writing to out2.txt...
+❯ cat out2.txt
+alexandrovichalexandrovichalexandrovichalexandrovichalexandrovichalexandrovichalexandrovichai
+```
+
 ```bash
 kali@kali:~$ python3 test.py 
 alexandrovichalexandrovichalexandrovichalexandrovichalexandrovichalexandrovichalexandrovichal
