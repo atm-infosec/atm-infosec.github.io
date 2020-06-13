@@ -5,7 +5,7 @@ categories: hackthebox
 tags: [hackthebox, linux, medium, webserver, bugs]
 lang: "en"
 image:
-    path: assets/images/hackthebox/obscurity/preview.webp
+    path: assets/images/hackthebox/obscurity/preview.png
     width: 300
     height: 300
 ---

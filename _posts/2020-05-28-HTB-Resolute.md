@@ -5,7 +5,7 @@ categories: hackthebox
 tags: [hackthebox, windows, medium, enumeration, enum4linux, evil-winrm, impacket, smb, dns dll injection]
 lang: "en"
 image:
-    path: assets/images/hackthebox/resolute/preview.webp
+    path: assets/images/hackthebox/resolute/preview.png
     width: 300
     height: 300
 ---

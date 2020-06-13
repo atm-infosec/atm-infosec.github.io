@@ -5,7 +5,7 @@ categories: hackthebox
 tags: [hackthebox, linux, easy, nostromo, gtfobins]
 lang: "en"
 image:
-    path: assets/images/hackthebox/traverxec/preview.webp
+    path: assets/images/hackthebox/traverxec/preview.png
     width: 300
     height: 300
 ---

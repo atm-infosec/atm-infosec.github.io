@@ -5,7 +5,7 @@ categories: hackthebox
 tags: [hackthebox, windows, medium, enum4linux, Active Directory, Azure, VbScrub, egre55]
 lang: "en"
 image:
-    path: assets/images/hackthebox/monteverde/preview.webp
+    path: assets/images/hackthebox/monteverde/preview.png
     width: 300
     height: 300
 ...

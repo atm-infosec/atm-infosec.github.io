@@ -5,7 +5,7 @@ categories: hackthebox
 tags: [hackthebox, linux, easy, OpenNetAdmin, john, ssh, nano, gtfobins]
 lang: "en"
 image:
-    path: assets/images/hackthebox/openadmin/preview.webp
+    path: assets/images/hackthebox/openadmin/preview.png
     width: 300
     height: 300
 ---
