@@ -3,7 +3,12 @@ layout: post
 title:  Monteverde
 categories: hackthebox
 tags: [hackthebox, windows, medium, enum4linux, Active Directory, Azure, VbScrub, egre55]
----
+lang: "en"
+image:
+    path: assets/images/hackthebox/monteverde/preview.webp
+    width: 300
+    height: 300
+...
 
 ![Monteverde](../../../../assets/images/hackthebox/monteverde/monteverde.jpg)
 
