@@ -3,6 +3,11 @@ layout: post
 title:  Obscurity
 categories: hackthebox
 tags: [hackthebox, linux, medium, webserver, bugs]
+lang: "en"
+image:
+    path: assets/images/hackthebox/obscurity/preview.webp
+    width: 300
+    height: 300
 ---
 
 ![Obscurity](../../../../assets/images/hackthebox/obscurity/obscurity.png)

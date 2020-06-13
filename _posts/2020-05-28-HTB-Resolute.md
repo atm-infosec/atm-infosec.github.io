@@ -3,6 +3,11 @@ layout: post
 title:  Resolute
 categories: hackthebox
 tags: [hackthebox, windows, medium, enumeration, enum4linux, evil-winrm, impacket, smb, dns dll injection]
+lang: "en"
+image:
+    path: assets/images/hackthebox/resolute/preview.webp
+    width: 300
+    height: 300
 ---
 
 ![Resolute](../../../../assets/images/hackthebox/resolute/resolute.jpg)

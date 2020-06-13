@@ -3,6 +3,11 @@ layout: post
 title:  Traverxec
 categories: hackthebox
 tags: [hackthebox, linux, easy, nostromo, gtfobins]
+lang: "en"
+image:
+    path: assets/images/hackthebox/traverxec/preview.webp
+    width: 300
+    height: 300
 ---
 
 ![Traverxec](../../../../assets/images/hackthebox/traverxec/traverxec.jpg)

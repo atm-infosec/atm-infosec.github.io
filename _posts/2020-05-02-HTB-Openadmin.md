@@ -3,6 +3,11 @@ layout: post
 title:  OpenAdmin
 categories: hackthebox
 tags: [hackthebox, linux, easy, OpenNetAdmin, john, ssh, nano, gtfobins]
+lang: "en"
+image:
+    path: assets/images/hackthebox/openadmin/preview.webp
+    width: 300
+    height: 300
 ---
 
 ![OpenAdmin](../../../../assets/images/hackthebox/openadmin/openadmin.jpg)
