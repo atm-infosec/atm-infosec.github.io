@@ -14,7 +14,7 @@ image:
 
 # abstract
 
-ForwardSlash is a great, hard rated machine on (hackthebox.eu)[https://hackthebox.eu] made by (InfoSecJack)[https://twitter.com/infosecjack] and chivato.
+ForwardSlash is a great, hard rated machine on [hackthebox.eu](https://hackthebox.eu) made by [InfoSecJack](https://twitter.com/infosecjack) and chivato.
 To get shell access you need to find a backup of the hacked website and exploit it again. After that, you have to outsmart a backup tool from the user pain.
 The root access is done by cracking or brute force of a self-written encryption tool.
 
