@@ -8,7 +8,7 @@ image:
     path: assets/images/hackthebox/monteverde/preview.png
     width: 300
     height: 300
-...
+---
 
 ![Monteverde](../../../../assets/images/hackthebox/monteverde/monteverde.jpg)
 
