@@ -10,7 +10,7 @@ image:
     height: 300
 ---
 
-![traceback](../../../../assets/images/hackthebox/doctor/doctor.jpg)
+![doctor](../../../../assets/images/hackthebox/doctor/doctor.jpg)
 
 # Abstract
 
